@@ -1,0 +1,21 @@
+*
+{
+	padding:0;
+	margin-left:0;
+	color:brown;
+}
+
+ul
+{
+	border:solid brown;
+}
+p
+{
+	font-style:italic;
+}	
+
+table,tr,td
+{
+	border:3px solid brown;
+	color:black;
+}
